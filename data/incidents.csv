@@ -1,0 +1,3 @@
+id,trainId,category,severity,description,status
+"INC01","RS204","DELAY","MEDIUM","Service delayed by 18 minutes","OPEN"
+"INC02","RS422","MAINTENANCE","HIGH","Routine inspection required","OPEN"

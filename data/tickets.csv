@@ -1,0 +1,3 @@
+pnr,passenger,trainId,from,to,status
+"PNR1001","Ananya","RS101","Vijayawada","Hyderabad","CONFIRMED"
+"PNR1002","Rahul","RS204","Chennai","Vijayawada","CONFIRMED"
